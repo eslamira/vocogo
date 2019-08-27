@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "9318863354",
+    "firebase_url": "https://vocogo-31cf0.firebaseio.com",
+    "project_id": "vocogo-31cf0",
+    "storage_bucket": "vocogo-31cf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9318863354:android:2ea9869eaeee0ac1",
+        "android_client_info": {
+          "package_name": "vocogo.vocogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9318863354-q6to2t26uli3fdps1t9kr674sftbuiqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vocogo.vocogo",
+            "certificate_hash": "ec932846d0efc5f714f0197ecfdceb620cc2aea1"
+          }
+        },
+        {
+          "client_id": "9318863354-6k34vn0ivfjscu3tu5t96291plepbujm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkR2BV8k3vsbtps6nytAw88Jwmthan1Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9318863354-6k34vn0ivfjscu3tu5t96291plepbujm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
